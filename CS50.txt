@@ -13,3 +13,6 @@ $ cd hello
 $ touch hello.html
 
 $ git add hello.html
+$ git commit -m "add hello.html"
+
+$ git status
