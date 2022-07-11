@@ -1,0 +1,15 @@
+http://github.com/new
+
+Repository name
+
+Public
+
+Create repository
+
+install git
+
+$ git clone https://github.com/nabil46mami/hello.git
+$ cd hello
+$ touch hello.html
+
+$ git add hello.html
