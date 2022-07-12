@@ -16,3 +16,19 @@ $ git add hello.html
 $ git commit -m "add hello.html"
 
 $ git status
+$ git commit -am "modified  hello.html"
+
+$ git pull
+
+merge conflicts----------------------------------------
+a = 1
+<<<<< HEAD
+b = 2                               # your changes 
+===== 5756c636f6d6520746f20576562   # conflict commit 
+b = 0                               # remote changes
+>>>>> 
+c = 3
+d = 4
+
+
+$ 
