@@ -29,6 +29,10 @@ b = 0                               # remote changes
 >>>>> 
 c = 3
 d = 4
+-------------------------------------------------------
+$ git push 
 
+$ git log
 
-$ 
+$ git reset --hard <commit>
+$ git reset --hard origin/main
